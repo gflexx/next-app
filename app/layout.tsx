@@ -34,7 +34,7 @@ export default function RootLayout({
               <Link href="/">Home</Link>
             </li>
           </ul>
-          <ul className="flex gap-4">
+          <ul className="flex gap-8">
             <li>
               <Link href="/about">About</Link>
             </li>
